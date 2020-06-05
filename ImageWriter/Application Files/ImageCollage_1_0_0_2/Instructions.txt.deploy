@@ -1,0 +1,42 @@
+Instructions
+ImageCollage by Philip Thomsen
+
+This tool can be used to recreate an image from other images
+This effect works best when many pictures with many different colours are available. Minecraft texturepacks works great :)
+
+
+
+Command name					Command						Summary
+
+
+SetConvertionPath				scp	'path'					Sets the path of a folder, where a copy of each picture will be convertet.
+
+SetConvertionDestination		scd	'path'					Sets the path of a folder, where the convertet pictures will be saved to.
+
+SetImagePath					sip 'file'					Sets the path of a file, which will be recreated by convertet pictures.
+
+SetImageDestination				sid 'path'					Sets the path of a folder, where the final image will be saved to.
+
+Override						override 'true/false'		Overrides any converted image with the same name.
+
+Convert							convert						from convertionPath to convertionDestination.
+															Uses convertion path and convertion destination.
+
+Create							create						Creates a png file by combining convertet images into a collage.
+															Uses convertion destination, image path and image destination.
+															Override will not be taken into account. This command will never override.
+
+
+6 easy steps to use ImageCollage		Example
+
+1) SetConvertionPath					scp C:\Program Files\ImageFolder
+
+2) SetConvertionDestination				scd C:\Program Files\ConvertedImageFolder
+
+3) Convert								convert		NOTE: You should now see converted images in your specified folder
+
+4) SetImagePath							sip C:\Program Files\OtherImageFolder\Paludan.png
+
+5) SetImageDestination					sid C:\Program Files\RecreatedImageFolder
+
+6) Create								create		NOTE: You should now see a recreated image in your specified folder

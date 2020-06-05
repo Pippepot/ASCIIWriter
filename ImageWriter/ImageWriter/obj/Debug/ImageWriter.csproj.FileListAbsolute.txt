@@ -1,0 +1,37 @@
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.config
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\bin\Debug\ImageWriter.pdb
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csprojAssemblyReference.cache
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.pdb
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.manifest
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\bin\Debug\ImageWriter.application
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe.manifest
+C:\Users\Philip\Desktop\Kode stuff\ImageWriter\ImageWriter\obj\Debug\ImageWriter.application
+C:\Users\philip\OneDrive\Scripts\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csprojAssemblyReference.cache
+C:\Users\philip\OneDrive\Scripts\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Users\philip\OneDrive\Scripts\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe
+C:\Users\philip\OneDrive\Scripts\ImageWriter\ImageWriter\obj\Debug\ImageWriter.pdb
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csprojAssemblyReference.cache
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.pdb
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.config
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.manifest
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\bin\Debug\ImageWriter.application
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\bin\Debug\ImageWriter.pdb
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe.manifest
+C:\Users\philip\Desktop\ImageWriter\ImageWriter\obj\Debug\ImageWriter.application
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.config
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe.manifest
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\bin\Debug\ImageWriter.application
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\bin\Debug\ImageWriter.exe
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\bin\Debug\ImageWriter.pdb
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csprojAssemblyReference.cache
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe.manifest
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.application
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.exe
+C:\Users\philip\Desktop\Scripting\C#\ImageWriter\ImageWriter\obj\Debug\ImageWriter.pdb
